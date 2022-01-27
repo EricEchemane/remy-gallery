@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Inter&family=Lobster&family=Montserrat&family=Padauk:wght@700&family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Inter&family=Lobster&family=Montserrat&family=Padauk:wght@700&family=Poppins&family=Sedgwick+Ave&display=swap');
 
 * {
     font-family: 'Padauk', sans-serif;
@@ -12,7 +12,7 @@ body {
 
 .title {
     text-align: center;
-    /* font-family: 'Lobster', cursive; */
+    font-family: 'Sedgwick Ave', cursive;
     margin: 3rem auto;
 }
 
