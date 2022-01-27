@@ -7,7 +7,7 @@
 
 body {
     min-height: 100vh;
-    background: linear-gradient(135deg, hsl(23, 90%, 4%), hsl(191, 85%, 5%));
+    background: radial-gradient(at top, hsl(283, 97%, 24%), hsl(0, 0%, 0%) 80%);
 }
 
 .title {
