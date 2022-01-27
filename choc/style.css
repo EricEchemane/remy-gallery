@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Inter&family=Lobster&family=Montserrat&family=Padauk:wght@700&family=Poppins&display=swap');
+
+* {
+    font-family: 'Padauk', sans-serif;
+    color: white;
+}
+
+body {
+    min-height: 100vh;
+    background: linear-gradient(135deg, hsl(190, 90%, 4%) 40%, hsl(267, 85%, 5%));
+}
+
+.title {
+    text-align: center;
+    /* font-family: 'Lobster', cursive; */
+    margin: 2rem auto;
+}
+
+.tns-nav, .tns-controls {
+    display: flex;
+    justify-content: center;
+    margin: 2rem auto;
+}
+
+.tns-nav button {
+    all: unset;
+    --w: .7rem;
+    width: var(--w);
+    height: var(--w);
+    background-color: hsla(0, 0%, 50%, .5);
+    border-radius: 50%;
+    transition: 250ms;
+    margin: 0 .25rem;
+}
+
+.tns-controls button {
+    outline: none;
+    border: none;
+    text-transform: uppercase;
+    padding: .7rem 1rem;
+    margin: 0 .5rem;
+    transition: 250ms;
+    background-color: hsla(0, 0%, 50%, .2);
+    border-radius: .3rem;
+}
+
+.tns-nav button:hover, .tns-controls button:hover {
+    filter: brightness(1.5);
+}
