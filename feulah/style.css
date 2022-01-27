@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Inter&family=Lobster&family=Montserrat&family=Padauk:wght@700&family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Inter&family=Lobster&family=Lobster+Two&family=Montserrat&family=Padauk:wght@700&family=Poppins&family=Sedgwick+Ave&display=swap');
 
 * {
     font-family: 'Padauk', sans-serif;
@@ -12,9 +12,9 @@ body {
 
 .title {
     text-align: center;
-    font-family: 'Lobster', cursive;
+    font-family: 'Lobster Two', cursive;
     margin-top: 2rem;
-    color: hsl(347, 100%, 43%);
+    color: black;
 }
 
 .tns-nav, .tns-controls {
