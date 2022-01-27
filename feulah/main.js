@@ -1,5 +1,3 @@
-
-
 const data = [
     "https://scontent.xx.fbcdn.net/v/t1.15752-9/271838773_652072552877054_8033730039280560767_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=aee45a&_nc_eui2=AeFtEba_MoxV9fLbjjBP9zBqIgJ6-2-pOq0iAnr7b6k6rbuJklUu_HmOY02222JSndl1WivA0QlJXyjTOToKy6HC&_nc_ohc=1JJj5owIVYMAX8Up9a4&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVJPkTCT0HTSugE0Gi7F6veTgIAeaqzq5Rt4zH-pV5_fqA&oe=6216EB84",
     "https://scontent.xx.fbcdn.net/v/t1.15752-9/271949811_223252139926433_4463083969919383003_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=aee45a&_nc_eui2=AeHP12oyw0Gk-1jj6SvjQQ4KD7kYG84PkT4PuRgbzg-RPlKPVNu_zjho-53lJCqFoNGFxqe1iNr8o67ge5r85laf&_nc_ohc=4oPMltaFv9kAX-d3Xnp&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVKRRyCAs5P4xobwuIY_KuuzcxJp20mDKKAqPdzhKRR4ZA&oe=62176CEA",
