@@ -37,6 +37,9 @@ window.onload = () => {
             900: {
                 items: 3
             },
+            1000: {
+                items: 4
+            },
         }
     });
 };
