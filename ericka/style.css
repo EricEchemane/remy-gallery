@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Inter&family=Lobster&family=Lobster+Two&family=Montserrat&family=Padauk:wght@700&family=Poppins&family=Sedgwick+Ave&display=swap');
+
+* {
+    font-family: 'Padauk', sans-serif;
+    color: white;
+}
+
+body {
+    min-height: 100vh;
+    background: linear-gradient(135deg, hsl(340, 100%, 90%) 50%, hsl(206, 100%, 85%));
+}
+
+.title {
+    text-align: center;
+    font-family: 'Lobster Two', cursive;
+    margin-top: 2rem;
+    color: black;
+}
+
+.tns-nav, .tns-controls {
+    display: flex;
+    justify-content: center;
+    margin: 2rem auto;
+}
+
+.tns-nav button {
+    all: unset;
+    --w: .7rem;
+    width: var(--w);
+    height: var(--w);
+    background-color: hsla(0, 0%, 100%, .5);
+    border-radius: 50%;
+    transition: 250ms;
+    margin: 0 .25rem;
+}
+
+.tns-controls button {
+    outline: none;
+    border: none;
+    text-transform: uppercase;
+    padding: .7rem 1rem;
+    margin: 0 .5rem;
+    transition: 250ms;
+    background-color: hsla(0, 0%, 100%, .3);
+    color: black !important;
+    border-radius: .3rem;
+}
+
+.tns-nav button:hover, .tns-controls button:hover {
+    filter: brightness(1.5);
+}
